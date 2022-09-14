@@ -20,13 +20,7 @@ export default function Home() {
           marginBottom: "50px"
         }}  
       >
-        I'm baby keytar lo-fi prism, yuccie yr fixie mustache unicorn VHS portland. Kogi lyft vape, cray hashtag helvetica gastropub hell of you probably haven't heard of them gatekeep sus health goth fashion axe. Health goth XOXO shoreditch street art, fingerstache lyft franzen VHS tousled fit raw denim offal snackwave art party. Hot chicken ramps PBR&B you probably haven't heard of them, kombucha flannel leggings artisan vibecession shoreditch neutra tumblr. Ethical +1 locavore enamel pin bicycle rights DSA ugh helvetica meh fingerstache. Selfies squid palo santo letterpress shaman. Vinyl tacos tattooed snackwave pug williamsburg meh cray.
-
-        Vice semiotics cliche single-origin coffee sriracha next level artisan forage intelligentsia hammock. Typewriter JOMO praxis, enamel pin polaroid pabst raclette vexillologist bicycle rights health goth waistcoat distillery normcore yuccie. VHS flannel chartreuse blog. Tilde offal tumblr cardigan DIY.
-
-        Vaporware quinoa distillery, blue bottle gochujang hashtag organic art party vexillologist single-origin coffee. Cray ugh thundercats vape. Authentic scenester godard man bun. Crucifix viral gatekeep dreamcatcher, taxidermy meggings street art adaptogen skateboard hot chicken aesthetic stumptown.
-
-        Cornhole mukbang poutine, salvia praxis tacos man bun asymmetrical irony vegan franzen. Godard vape vinyl heirloom pabst jean shorts woke jianbing bitters. Fam food truck bitters pickled artisan. Plaid you probably haven't heard of them hell of JOMO enamel pin fam health goth tumeric farm-to-table authentic selvage activated charcoal. Kale chips cliche af keytar. Brunch readymade austin selvage. Mustache lo-fi green juice locavore pour-over.
+        pickled artisan. Plaid you probably haven't heard of them hell of JOMO enamel pin fam health goth tumeric farm-to-table authentic selvage activated charcoal. Kale chips cliche af keytar. Brunch readymade austin selvage. Mustache lo-fi green juice locavore pour-over.
       </div>
 
       <div
@@ -35,13 +29,7 @@ export default function Home() {
           marginBottom: "50px"
         }}  
       >
-        I'm baby keytar lo-fi prism, yuccie yr fixie mustache unicorn VHS portland. Kogi lyft vape, cray hashtag helvetica gastropub hell of you probably haven't heard of them gatekeep sus health goth fashion axe. Health goth XOXO shoreditch street art, fingerstache lyft franzen VHS tousled fit raw denim offal snackwave art party. Hot chicken ramps PBR&B you probably haven't heard of them, kombucha flannel leggings artisan vibecession shoreditch neutra tumblr. Ethical +1 locavore enamel pin bicycle rights DSA ugh helvetica meh fingerstache. Selfies squid palo santo letterpress shaman. Vinyl tacos tattooed snackwave pug williamsburg meh cray.
-
-        Vice semiotics cliche single-origin coffee sriracha next level artisan forage intelligentsia hammock. Typewriter JOMO praxis, enamel pin polaroid pabst raclette vexillologist bicycle rights health goth waistcoat distillery normcore yuccie. VHS flannel chartreuse blog. Tilde offal tumblr cardigan DIY.
-
-        Vaporware quinoa distillery, blue bottle gochujang hashtag organic art party vexillologist single-origin coffee. Cray ugh thundercats vape. Authentic scenester godard man bun. Crucifix viral gatekeep dreamcatcher, taxidermy meggings street art adaptogen skateboard hot chicken aesthetic stumptown.
-
-        Cornhole mukbang poutine, salvia praxis tacos man bun asymmetrical irony vegan franzen. Godard vape vinyl heirloom pabst jean shorts woke jianbing bitters. Fam food truck bitters pickled artisan. Plaid you probably haven't heard of them hell of JOMO enamel pin fam health goth tumeric farm-to-table authentic selvage activated charcoal. Kale chips cliche af keytar. Brunch readymade austin selvage. Mustache lo-fi green juice locavore pour-over.
+        pickled artisan. Plaid you probably haven't heard of them hell of JOMO enamel pin fam health goth tumeric farm-to-table authentic selvage activated charcoal. Kale chips cliche af keytar. Brunch readymade austin selvage. Mustache lo-fi green juice locavore pour-over.
       </div>
 
       <div
@@ -50,14 +38,18 @@ export default function Home() {
           marginBottom: "50px"
         }}  
       >
-        I'm baby keytar lo-fi prism, yuccie yr fixie mustache unicorn VHS portland. Kogi lyft vape, cray hashtag helvetica gastropub hell of you probably haven't heard of them gatekeep sus health goth fashion axe. Health goth XOXO shoreditch street art, fingerstache lyft franzen VHS tousled fit raw denim offal snackwave art party. Hot chicken ramps PBR&B you probably haven't heard of them, kombucha flannel leggings artisan vibecession shoreditch neutra tumblr. Ethical +1 locavore enamel pin bicycle rights DSA ugh helvetica meh fingerstache. Selfies squid palo santo letterpress shaman. Vinyl tacos tattooed snackwave pug williamsburg meh cray.
-
-        Vice semiotics cliche single-origin coffee sriracha next level artisan forage intelligentsia hammock. Typewriter JOMO praxis, enamel pin polaroid pabst raclette vexillologist bicycle rights health goth waistcoat distillery normcore yuccie. VHS flannel chartreuse blog. Tilde offal tumblr cardigan DIY.
-
-        Vaporware quinoa distillery, blue bottle gochujang hashtag organic art party vexillologist single-origin coffee. Cray ugh thundercats vape. Authentic scenester godard man bun. Crucifix viral gatekeep dreamcatcher, taxidermy meggings street art adaptogen skateboard hot chicken aesthetic stumptown.
-
-        Cornhole mukbang poutine, salvia praxis tacos man bun asymmetrical irony vegan franzen. Godard vape vinyl heirloom pabst jean shorts woke jianbing bitters. Fam food truck bitters pickled artisan. Plaid you probably haven't heard of them hell of JOMO enamel pin fam health goth tumeric farm-to-table authentic selvage activated charcoal. Kale chips cliche af keytar. Brunch readymade austin selvage. Mustache lo-fi green juice locavore pour-over.
+        pickled artisan. Plaid you probably haven't heard of them hell of JOMO enamel pin fam health goth tumeric farm-to-table authentic selvage activated charcoal. Kale chips cliche af keytar. Brunch readymade austin selvage. Mustache lo-fi green juice locavore pour-over.
       </div>
+
+      <div
+        style={{
+          marginTop: "50px",
+          marginBottom: "50px"
+        }}  
+      >
+        pickled artisan. Plaid you probably haven't heard of them hell of JOMO enamel pin fam health goth tumeric farm-to-table authentic selvage activated charcoal. Kale chips cliche af keytar. Brunch readymade austin selvage. Mustache lo-fi green juice locavore pour-over.
+      </div>
+
 
       <div className='boxContainer'>
         <Box num={1} />
